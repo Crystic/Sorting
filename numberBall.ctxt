@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=numberBall(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ setNumberText()
+comment3.params=theText\ theImage
+comment3.target=void\ centreText(java.lang.String,\ greenfoot.GreenfootImage)
+comment4.params=
+comment4.target=int\ getBallWidth()
+comment5.params=
+comment5.target=int\ getBallNumber()
+comment6.params=number
+comment6.target=void\ setBallNumber(int)
+numComments=7
